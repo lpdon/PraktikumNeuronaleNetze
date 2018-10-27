@@ -15,7 +15,7 @@ I highly recommend installing [Anaconda](https://www.anaconda.com/downloads) (a 
 * Anaconda with python 3.5 (or 3.6)
 * CUDA drivers & toolkit 8.0 (if your workstation is Nvidia GPU-enabled or you use our lab machines)
 
-If you are not sure what you are doing, llease refer to the steps 1-5 from https://towardsdatascience.com/setup-an-environment-for-machine-learning-and-deep-learning-with-anaconda-in-windows-5d7134a3db10
+If you are not sure what you are doing, please refer to the steps 1-5 from https://towardsdatascience.com/setup-an-environment-for-machine-learning-and-deep-learning-with-anaconda-in-windows-5d7134a3db10
 
 ### Jupyter Notebooks
 
